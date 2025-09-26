@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-**omarramy22/omarramy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...```markdown
 # Hi there 👋, I'm Omar Khalil  
 
 🎓 **Computer Engineering & Mathematics student** at The American University in Cairo (GPA: 3.95, Dean’s List).  
@@ -49,9 +40,8 @@ Here are some ideas to get you started:
 ## 🌐 Connect with Me
 - 📫 Email: [omarramy@aucegypt.edu](mailto:omarramy@aucegypt.edu)  
 - 💼 LinkedIn: [linkedin.com/in/omar-khalil](https://linkedin.com/in/omar-khalil-9b595732a/)  
+- 📂 Portfolio (CV): [CV PDF](https://github.com/omarramy22)  
 
 ---
 ⭐️ *“Mathematics is the music of reason, and code is its instrument.”*
 ```
-
--->
