@@ -22,9 +22,9 @@
 
 ## 🚀 Featured Projects
 - 🧮 [Calc3Assistant](https://github.com/omarramy22/Calc3_assistant) – Cross-browser extension for symbolic/numeric Calculus III solutions.  
-- 🎬 [Oscar Movie DB](https://github.com/omarramy22/oscar-movie-db) – Scraped & structured Oscar data into a relational database with analytics queries.  
 - ⚙️ [RISC-V Emulator](https://github.com/CSCE-2303/csce-2303-s25-project-1-buffer-overflow) – Instruction-level emulator in C for 40+ instructions.  
-- 🔒 [ExamEase](https://github.com/MikhaelMounay/examease) – Secure coding exam platform with anti-cheating features.  
+- 🔒 [ExamEase](https://github.com/MikhaelMounay/examease) – Secure coding exam platform with anti-cheating features.
+- 🎬 [Oscar Movie DB] Scraped & structured Oscar data into a relational database with analytics queries.  
 
 ---
 
