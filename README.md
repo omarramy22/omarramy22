@@ -33,14 +33,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarramy22&theme=tokyonight)](https://git.io/streak-stats)  
 
-![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omarramy22&theme=tokyonight)  
-
 ---
 
 ## 🌐 Connect with Me
 - 📫 Email: [omarramy@aucegypt.edu](mailto:omarramy@aucegypt.edu)  
 - 💼 LinkedIn: [linkedin.com/in/omar-khalil](https://linkedin.com/in/omar-khalil-9b595732a/)  
-- 📂 Portfolio (CV): [CV PDF](https://github.com/omarramy22)  
 
 ---
 ⭐️ *“Mathematics is the music of reason, and code is its instrument.”*
