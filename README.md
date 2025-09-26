@@ -4,6 +4,7 @@
 🏆 **International Mathematical Olympiad Finalist** and IYMC Gold Medalist.  
 💻 Passionate about **algorithms, systems programming, databases, and full-stack development**.  
 🔐 Currently exploring **Cybersecurity** through self-study, with a focus on web security, cryptography, and system vulnerabilities.  
+📌 **Seeking SWE internships for Summer 2026**
 
 ---
 
