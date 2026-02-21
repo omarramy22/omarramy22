@@ -4,7 +4,6 @@
 🏆 **International Mathematical Olympiad Finalist** and IYMC Gold Medalist.  
 💻 Passionate about **algorithms, systems programming, databases, and full-stack development**.  
 🔐 Currently exploring **Cybersecurity** through self-study, with a focus on web security, cryptography, and system vulnerabilities.  
-📌 **Seeking SWE internships for Summer 2026**
 
 ---
 
@@ -24,6 +23,7 @@
 - 🧮 [Calc3Assistant](https://github.com/omarramy22/Calc3_assistant) – Cross-browser extension for symbolic/numeric Calculus III solutions.  
 - ⚙️ [RISC-V Emulator](https://github.com/CSCE-2303/csce-2303-s25-project-1-buffer-overflow) – Instruction-level emulator in C for 40+ instructions.  
 - 🔒 [ExamEase](https://github.com/MikhaelMounay/examease) – Secure coding exam platform with anti-cheating features.
+- ⚙️ [FemtoRV32](https://github.com/omarramy22/-femtoRV32) - Verilog Implementation for a computer architecture
 - 🎬 [Oscar Movie DB] Scraped & structured Oscar data into a relational database with analytics queries.  
 
 ---
