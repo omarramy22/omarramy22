@@ -20,17 +20,17 @@
 
 ## 🧰 Tech Stack
 
-**Languages**  
-`Python` `C/C++` `Go` `JavaScript` `TypeScript` `SQL`
+---
 
-**Systems & Backend**  
-`WebSockets` `REST APIs` `Concurrency` `Linux` `Debugging`
-
-**Frontend**  
-`React`
-
-**Data / AI**  
-`ChromaDB` `Embeddings` `RAG Pipelines`
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -54,6 +54,7 @@ Built a **WebSocket-based multiplayer game**:
 ---
 
 ### 📊 Multi-Factor Ranking Algorithm
+🔗 [https://colab.research.google.com/drive/1unnT9zgS8It3qYAg2rYJeNACaOpCtf4y?authuser=2##scrollTo=2YX7syefjkk4]
 Designed a ranking system over **2000 users**:
 - optimized demand & reduced cancellations  
 - simulated performance over 90-day runs  
