@@ -5,7 +5,7 @@
 🏆 IMO Finalist | IYMC Gold Medalist  
 
 💻 I build **backend systems, real-time applications, and AI-powered pipelines**  
-🔍 Focus: **Systems, Distributed Apps, Retrieval (RAG), and Performance**  
+🔍 Focus: **Systems, AI Applications (RAG), and Performance**  
 🔐 Also working on **Web Security & Penetration Testing (OWASP Top 10)**  
 
 ---
