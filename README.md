@@ -51,7 +51,8 @@ Built a **WebSocket-based multiplayer game**:
 ---
 
 ### 📊 Multi-Factor Ranking Algorithm
-🔗 [https://colab.research.google.com/drive/1unnT9zgS8It3qYAg2rYJeNACaOpCtf4y?authuser=2##scrollTo=2YX7syefjkk4]
+🔗 https://colab.research.google.com/drive/1unnT9zgS8It3qYAg2rYJeNACaOpCtf4y?authuser=2##scrollTo=2YX7syefjkk4
+
 Designed a ranking system over **2000 users**:
 - optimized demand & reduced cancellations  
 - simulated performance over 90-day runs  
