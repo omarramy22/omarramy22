@@ -1,43 +1,100 @@
-# Hi there 👋, I'm Omar Khalil  
+# Omar Khalil 👋  
 
-🎓 **Computer Engineering & Mathematics student** at The American University in Cairo (GPA: 3.95, Dean’s List).  
-🏆 **International Mathematical Olympiad Finalist** and IYMC Gold Medalist.  
-💻 Passionate about **algorithms, systems programming, databases, and full-stack development**.  
-🔐 Currently exploring **Cybersecurity** through self-study, with a focus on web security, cryptography, and system vulnerabilities.  
+🎓 Computer Engineering & Mathematics @ AUC (GPA: 3.94)  
+🌍 Exchange Student @ University of Helsinki 🇫🇮  
+🏆 IMO Finalist | IYMC Gold Medalist  
 
----
-
-## 🔧 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-35495E?style=for-the-badge&logo=verilog&logoColor=white)
+💻 I build **backend systems, real-time applications, and AI-powered pipelines**  
+🔍 Focus: **Systems, Distributed Apps, Retrieval (RAG), and Performance**  
+🔐 Also working on **Web Security & Penetration Testing (OWASP Top 10)**  
 
 ---
 
-## 🚀 Featured Projects
-- 🧮 [Calc3Assistant](https://github.com/omarramy22/Calc3_assistant) – Cross-browser extension for symbolic/numeric Calculus III solutions.  
-- ⚙️ [RISC-V Emulator](https://github.com/CSCE-2303/csce-2303-s25-project-1-buffer-overflow) – Instruction-level emulator in C for 40+ instructions.  
-- 🔒 [ExamEase](https://github.com/MikhaelMounay/examease) – Secure coding exam platform with anti-cheating features.
-- ⚙️ [FemtoRV32](https://github.com/omarramy22/-femtoRV32) - Verilog Implementation for a computer architecture
-- 🎬 [Oscar Movie DB] Scraped & structured Oscar data into a relational database with analytics queries.  
+## 🚀 What I'm Working On
+- ⚡ Real-time systems with **WebSockets & concurrency**
+- 🤖 Improving **RAG pipelines (retrieval + ranking + filtering)**
+- 🔍 Deepening **web security & vulnerability analysis**
+- 🧠 Exploring **systems design + scalable architectures**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+`Python` `C/C++` `Go` `JavaScript` `TypeScript` `SQL`
+
+**Systems & Backend**  
+`WebSockets` `REST APIs` `Concurrency` `Linux` `Debugging`
+
+**Frontend**  
+`React`
+
+**Data / AI**  
+`ChromaDB` `Embeddings` `RAG Pipelines`
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 RAG System
+🔗 https://github.com/omarramy22/sales_rag  
+Built a **retrieval-augmented generation pipeline** over 10k+ records using:
+- embedding-based semantic retrieval  
+- metadata-aware filtering (LLM-assisted)  
+- optimized chunking + ranking  
+
+---
+
+### 🎮 Quarter Monkey (Real-Time Multiplayer)
+Built a **WebSocket-based multiplayer game**:
+- low-latency client-server communication  
+- real-time state synchronization  
+- concurrent player handling  
+
+---
+
+### 📊 Multi-Factor Ranking Algorithm
+Designed a ranking system over **2000 users**:
+- optimized demand & reduced cancellations  
+- simulated performance over 90-day runs  
+- compared against greedy baseline  
+
+---
+
+### 🧮 Calc3Assistant
+🔗 https://github.com/omarramy22/Calc3_assistant  
+Browser extension solving **15+ Calculus III topics**  
+- symbolic + numeric computation  
+- optimized response latency (<10s)  
+
+---
+
+### 🔒 ExamEase
+🔗 https://github.com/MikhaelMounay/examease  
+Secure coding exam platform:
+- Monaco Editor + code execution engine  
+- anti-cheating mechanisms (event-based detection)  
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarramy22&theme=tokyonight)](https://git.io/streak-stats)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omarramy22&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-- 📫 Email: [omarramy@aucegypt.edu](mailto:omarramy@aucegypt.edu)  
-- 💼 LinkedIn: [linkedin.com/in/omar-khalil](https://linkedin.com/in/omar-khalil-9b595732a/)  
+## 🌐 Connect With Me
+
+- 📧 Email: **omarramy@aucegypt.edu**  
+- 💼 LinkedIn: https://linkedin.com/in/omar-khalil-9b595732a/  
 
 ---
-⭐️ *“Mathematics is the music of reason, and code is its instrument.”*
-```
+
+## ⚡ Fun Fact
+I enjoy building systems where **performance, correctness, and design all matter**.
+
+---
+
+⭐️ *“Mathematics is the language of precision, and code is its execution.”*
