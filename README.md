@@ -43,6 +43,8 @@ Built a **retrieval-augmented generation pipeline** over 10k+ records using:
 ---
 
 ### 🎮 Quarter Monkey (Real-Time Multiplayer)
+🔗 https://quarter-monkey.vercel.app/
+
 Built a **WebSocket-based multiplayer game**:
 - low-latency client-server communication  
 - real-time state synchronization  
@@ -83,6 +85,14 @@ Secure coding exam platform:
 </p>
 
 ---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/omarramy22">
+    <img src="https://leetcard.jacoblin.cool/omarramy22" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 
